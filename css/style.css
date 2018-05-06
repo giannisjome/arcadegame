@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+.heart {
+	height: 65px;
+	width: 40px;
+	display: inline;
+	
+}
+.scorearea {
+display: inline;
+margin-right: 220px;
+}
+#gameover {
+position: absolute;
+top: 20%;
+left: 43%;
+width: 250px;
+height: 200px;
+border-style: solid;
+border-width: 5px;
+color: black;
+font-size: 25px;
+background-color: yellow;
+visibility: hidden;
+}
