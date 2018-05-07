@@ -13,6 +13,9 @@ The **js folder** contains three javascript files.
 * The **Engine.js** which provides the game loop functionality (update entities and render), draws the initial game board on the screen, and then calls the update and render methods on  player and enemy objects (defined in  app.js).
 * The **app.js** which includes the in-game functionality, like player and enemy movement, score, lives , etc.
 
+## Run the project
+To tun the project, open the index.html file.
+
 ## How to play
 Use the arrows keys and try to reach your player in the water!
 
