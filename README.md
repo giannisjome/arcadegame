@@ -14,7 +14,7 @@ The **js folder** contains three javascript files.
 * The **app.js** which includes the in-game functionality, like player and enemy movement, score, lives , etc.
 
 ## Run the project
-To tun the project, open the index.html file.
+To run the project, open the index.html file.
 
 ## How to play
 Use the arrows keys and try to reach your player in the water!
